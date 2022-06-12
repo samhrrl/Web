@@ -1,0 +1,29 @@
+.blue{
+    background-image: url(img/database.jpg);
+    height: 60vh;
+    background-size: cover;
+    opacity: 80%;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 10%;
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    padding-top: 10%;
+}
+h2{
+    text-align: center;
+    padding-top: 2%;
+}
+#logo-esg{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 5%;
+    padding: 3%;
+
+
+}
